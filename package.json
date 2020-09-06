@@ -1,0 +1,32 @@
+{
+  "name": "zokoticket",
+  "version": "1.0.0",
+  "description": "Technologie utilisée : JavaScript (NodeJS) | Discord.JS (v12)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MathisDlb/ZokoTicket.git"
+  },
+  "keywords": [
+    "discord.js",
+    "bot",
+    "v12",
+    "ticket"
+  ],
+  "author": "Mathis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MathisDlb/ZokoTicket/issues"
+  },
+  "homepage": "https://github.com/MathisDlb/ZokoTicket#readme",
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "discord.js": "^12.3.1",
+    "gulp-util": "^3.0.8",
+    "path": "^0.12.7",
+    "quick.db": "^7.1.1"
+  }
+}
